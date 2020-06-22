@@ -1,0 +1,113 @@
+/* .carousel-item {
+    width: 100%;
+    height: 100vh;
+} */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background: #37474f ;
+    height: 100px;
+}
+.nav-link {
+    color: white;
+    font-size: 25px;
+}
+
+#marquee {
+    background-color: #e6ee9c;
+
+}
+
+h2 {
+    color: red;
+    margin-bottom: 50px;
+}
+
+
+
+.page-footer {
+    background: #757575   ;
+
+}
+.footer-copyright {
+    background: #616161  ;
+    color: white;
+}
+body {
+    overflow-x: hidden !important;
+}
+.card-map {
+    width: 45rem;
+}
+
+#kgi-branches {
+    background: #eeeeee ;
+    height: 400px;
+}
+
+#contact-us {
+        display:inline-block;
+        margin-top: 100px;
+        font-style: italic;
+        font-size: 50px;
+    }
+
+#address-info {
+    background: transparent;
+    border: none;
+    text-align: center;
+    margin-top: 100px;
+}
+.card-map {
+    margin-top: 60px;
+}
+
+#placement-notice {
+    /* background: #108dc7;  
+    background: -webkit-linear-gradient(to right, #ef8e38, #108dc7);  
+    background: linear-gradient(to right, #ef8e38, #108dc7);  */
+    height: 30rem;
+    background-color: #37474f;
+}
+
+#campus-update {
+    /* background: transparent; */
+    margin-top: 55px;
+    /* color: white; */
+}
+
+#notice {
+    background: transparent;
+    margin-top: 55px;
+    width: 30rem;
+   
+    text-align: center;
+}
+
+section {
+    margin-bottom: 50px;
+}
+
+.card-title {
+    background-color:grey ;
+}
+
+.card-body {
+    background-color: #e0e0e0;
+}
+
+#contact-button {
+
+}
+
+
+
+
+
+/* .container {
+    max-width: 100% !important;
+    overflow-x: hidden !important;
+} */
